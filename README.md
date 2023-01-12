@@ -3,10 +3,7 @@
 - 🔭 Sou Desenvolvedor Front-end
 - 🌱 Atualmente estudando e aperfeiçoando React.js e TypeScript
 - 📚 Cursando Engenharia de Software
-<div>
-  <a href="https://github.com/DavidGBbr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidGBbr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+
   
 ## Tecnologias que uso 
   

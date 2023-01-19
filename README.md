@@ -1,7 +1,7 @@
 ### Olá! Eu sou o David Brigido 🖐
 
 - 🔭 Sou Desenvolvedor Front-end
-- 🌱 Atualmente estudando e aperfeiçoando React.js e TypeScript
+- 🌱 Atualmente estudando e aperfeiçoando React.js
 - 📚 Cursando Engenharia de Software
 
   

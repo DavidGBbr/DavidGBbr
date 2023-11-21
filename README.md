@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• 🖥️ Sou Desenvolvedor Front-end<br>• 👨‍💻 Possuo experiência com Typescript, ReactJS, e React Native.<br>• 📚 Cursando Engenharia de Software</p>
+<p align="left">• 🖥️ Sou Desenvolvedor FullStack<br>• 👨‍💻 Possuo experiência com Typescript, ReactJS, React Native e NodeJS.<br>• 📚 Cursando Engenharia de Software</p>
 
 ###
 
